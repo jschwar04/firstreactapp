@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/firstreactapp/static/css/main.f4af7a5f.chunk.css",
+    "main.js": "/firstreactapp/static/js/main.b7e61747.chunk.js",
+    "main.js.map": "/firstreactapp/static/js/main.b7e61747.chunk.js.map",
+    "runtime-main.js": "/firstreactapp/static/js/runtime-main.22db5abc.js",
+    "runtime-main.js.map": "/firstreactapp/static/js/runtime-main.22db5abc.js.map",
+    "static/js/2.89f2d356.chunk.js": "/firstreactapp/static/js/2.89f2d356.chunk.js",
+    "static/js/2.89f2d356.chunk.js.map": "/firstreactapp/static/js/2.89f2d356.chunk.js.map",
+    "index.html": "/firstreactapp/index.html",
+    "precache-manifest.825992c8a789f1e7bfe1799906d91db0.js": "/firstreactapp/precache-manifest.825992c8a789f1e7bfe1799906d91db0.js",
+    "service-worker.js": "/firstreactapp/service-worker.js",
+    "static/css/main.f4af7a5f.chunk.css.map": "/firstreactapp/static/css/main.f4af7a5f.chunk.css.map",
+    "static/js/2.89f2d356.chunk.js.LICENSE.txt": "/firstreactapp/static/js/2.89f2d356.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/firstreactapp/static/media/Linkedin Banner nD Seite 2.jpg.67dc4472.png",
+    "static/media/logo.svg": "/firstreactapp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22db5abc.js",
+    "static/js/2.89f2d356.chunk.js",
+    "static/css/main.f4af7a5f.chunk.css",
+    "static/js/main.b7e61747.chunk.js"
+  ]
+}
